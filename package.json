@@ -1,0 +1,28 @@
+{
+  "name": "angularjs-issue-ui",
+  "version": "0.1.0",
+  "description": "Issue UI Angular JS Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haighis/angularjs-issue-ui.git"
+  },
+  "keywords": [
+    "angularjs",
+    "support",
+    "issue"
+  ],
+  "author": "John Haigh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haighis/angularjs-issue-ui/issues"
+  },
+  "homepage": "https://github.com/haighis/angularjs-issue-ui#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "nedb-promises": "^3.0.2"
+  }
+}
